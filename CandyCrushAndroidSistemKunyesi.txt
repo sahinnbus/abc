@@ -1,0 +1,29 @@
+Private IP	192.168.1.200
+Subnet Mask	255.255.255.0
+Public IP	78.175.239.213
+DNS	0.0.0.0
+MAC Adresleri	94-40-D3-D8-39-7D
+Android Seri No	72701681
+Android Device ID FCFC1DBC2881D9AA	
+Android Sürümü	5.1.1
+IMEI 	904701727028557
+Sistem Bilgisi	Biletix
+İşletim Sistemi	MEMU Emulatör 7.1.6
+Versiyon	3.1.4
+Kullanıcı Adı	burcin.hazalsanli@gmail.com
+Wifi hotspot	qkmkr14880
+Model Numarası	SM-G935F
+Cihaz Modeli	Galaxy S7 Edge
+Emülatöre yüklü Olan Uygulamalara ait paket isimleri	com.google.android.gms
+com.android.browser
+com.android.vendings
+com.cyanogenmod.filemanager
+com.microvirt.guide
+
+Telefonda kayıtlı olan hesap bilgileri	Candy Crush Soda Saga: burcin.hazalsanli@gmail.com
+Google: burcin.hazalsanli@gmail.com
+Şifre	Bh12345.
+Bağlantı Tipi	Wi-Fi
+Ad Soyad	Burçin Şanlı
+Cep Telefonu	-
+Mail Adresi	burcin.hazalsanli@gmail.com
